@@ -25,8 +25,8 @@ To set up and install the project, follow the instructions below:
 1. **Clone the Repository**:
     Clone the repository and navigate to the project directory:
     ```bash
-    git clone [https://github.com/deepak170601/Content-Based-Book-Recommendation-System]
-    cd [content-based-book-recommendation]
+    git clone https://github.com/deepak170601/Content-Based-Book-Recommendation-System
+    cd content-based-book-recommendation
     ```
 
 2. **Create a Virtual Environment**:
